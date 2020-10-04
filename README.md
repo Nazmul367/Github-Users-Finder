@@ -1,5 +1,5 @@
 # GitHub Users Finder
-It's a small web app, where you can find GitHub Users . According with profile you also see more information about user's profile..
+It's a small React web app, where you can find GitHub Users . According with profile you also see more information about user's profile..
 
 ### [Live Demo](https://githubuserfinder196.netlify.app/)
 
